@@ -1,0 +1,3 @@
+platform :ios, '11.0'
+pod 'SnapSDK'
+pod 'PINCache','~> 3.0'
